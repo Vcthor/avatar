@@ -59,7 +59,7 @@ $address = "Blk 127 Lot 6 Biglang Liko St. Sogo City";
     
     <div id="wrapper">
 
-        <img src="https://sm.ign.com/ign_ap/cover/a/avatar-gen/avatar-generations_hugw.jpg" alt="Profile">
+        <img src="https://media.gettyimages.com/id/83149193/photo/arnold-schwarzenegger-portrait-session.jpg?b=1&s=594x594&w=0&k=20&c=i59GyCCSshf8AdIxMW0WGNAu0HTpAMyFv2DQw8LnxJk=" alt="Profile">
         <div id="container">
 
 
@@ -76,7 +76,7 @@ $address = "Blk 127 Lot 6 Biglang Liko St. Sogo City";
     </div>
     <div id="wrapper">
 
-        <img src="https://sm.ign.com/ign_ap/cover/a/avatar-gen/avatar-generations_hugw.jpg" alt="Profile">
+        <img src="https://cdn.wallpapersafari.com/44/52/bE60Hi.jpg" alt="Profile">
         <div id="container">
 
 
@@ -94,7 +94,7 @@ $address = "Blk 127 Lot 6 Biglang Liko St. Sogo City";
     
     <div id="wrapper">
 
-        <img src="https://sm.ign.com/ign_ap/cover/a/avatar-gen/avatar-generations_hugw.jpg" alt="Profile">
+        <img src="https://cdn.abcotvs.com/dip/images/116941_AP506961425831.jpg?w=1600" alt="Profile">
         <div id="container">
 
 
